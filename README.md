@@ -42,7 +42,7 @@
 
 💌 Me puedes encontrar por aquí:
 - 💻 GitHub: [@Blanca12luz](https://github.com/Blanca12luz)
-- ✉️ Email: bl.hidalgo@duocuc.cl *(si deseas ponerlo)*
+- ✉️ Email: bl.hidalgo@duocuc.cl 
 
 ---
 
