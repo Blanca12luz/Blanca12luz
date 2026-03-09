@@ -23,8 +23,8 @@
 ### 🧸 Tecnologías que uso y Mis estadísticas
 
 <p align= "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blanca12luz&theme=rose_pine&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Blanca12luz&show_icons=true&theme=rose_pine&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blanca12luz&theme=rose&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Blanca12luz&show_icons=true&theme=rose&hide_title=true" alt="GitHub stats" />
 </p>
 
 ---
