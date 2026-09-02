@@ -17,7 +17,8 @@
 - 🌱 Explorando el mundo con nuevos lenguajes
 - 🎯 Siempre buscando que mis proyectos sean útiles, bonitos y bien organizados
 - 🐱‍💻 Programo con música
--  aca estan mis certificaciones [acea8c50-99fb-4807-bd49-984beb1449f8.pdf](https://github.com/user-attachments/files/31718651/acea8c50-99fb-4807-bd49-984beb1449f8.pdf)
+- 🎮🧸 Me gustan los jueguitos
+- 👩‍💻📖 Aca estan mis certificaciones [acea8c50-99fb-4807-bd49-984beb1449f8.pdf](https://github.com/user-attachments/files/31718651/acea8c50-99fb-4807-bd49-984beb1449f8.pdf)
 
 
 ---
